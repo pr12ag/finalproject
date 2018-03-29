@@ -18,7 +18,7 @@ if(isset($_SESSION['mail'])){
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 <style >
     	body{
-    		background-image:url("http://www.kinyu-z.net/data/wallpapers/117/1112705.jpg");
+    		background-image:url("/var/www/html/git/finalproject/img/bg-img1.jpg");
     		height: 100px;
     	}
     </style>
